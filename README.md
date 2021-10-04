@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vitamin937
-- 👀 I’m interested in ingenering
+- 👀 I’m interested in engineering
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ... nevermind
 - 📫 How to reach me ... nevermind
